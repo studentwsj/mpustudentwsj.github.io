@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-I am a student at the Macau University of Science and Technology.
+I am a student at the Macao Polytechnic University.
